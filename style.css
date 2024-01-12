@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.cou{
+    height: 70vh;
+}
+.cd1{
+    margin-top: 50px;
+}
+.ser{
+    text-align: center;
+    font-family: 'Grechen Fuemen', cursive;
+}
+.back{
+    background: url(img/bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.pa{
+    font-family: 'Great Vibes', cursive;
+        font-size: 40px;
+    
+}
+.pa p{
+    padding: 200px;
+    color:black;
+    text-align: center;
+}
+.brand1{
+    text-align: center;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Lemon', serif;    font-weight: bold;
+}
+.ml{
+    font-size: 20px;
+}
+.c1:hover{
+    box-shadow: 2px 2px 5px rgb(10, 9, 9);
+    transform: scale(0.9);
+    /* padding: 1px; */
+}
